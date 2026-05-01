@@ -6,7 +6,7 @@ import Navbar from './Components/Navbar';
 import Hero from './Components/Hero';
 import About from './Components/About';
 import Education from './Components/Education';
-import Projects from './Components/Project';
+import Project from './Components/Project';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 
@@ -24,7 +24,7 @@ const App = () => {
               <Hero />
               <About />
               <Education />
-              <Projects />
+              <Project />
               <Resume />
               <Contact />
             </>
@@ -34,7 +34,7 @@ const App = () => {
         {/* Separate Pages */}
         <Route path="/about" element={<About />} />
         <Route path="/education" element={<Education />} />
-        <Route path="/projects" element={<Projects />} />
+        <Route path="/projects" element={<Project />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
