@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Education from './components/Education';
-import Project from './components/Project';
+import Project from './components/project';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 
