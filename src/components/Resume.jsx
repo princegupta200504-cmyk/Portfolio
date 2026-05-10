@@ -15,7 +15,7 @@ const Resume = () => {
           </p>
 
           <a
-            href="/resume.pdf"
+            href="\Prince Gupta Resume  (1).pdf"
             download
             className="btn btn-success mt-3 px-4"
           >

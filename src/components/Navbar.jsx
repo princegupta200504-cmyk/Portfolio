@@ -59,7 +59,7 @@ const Navbar = () => {
             {/* Resume Button */}
             <li className="nav-item ms-lg-3 mt-3 mt-lg-0">
              <a
-                 href="/Resume.pdf"
+                 href="\Prince Gupta Resume  (1).pdf"
                  target="_blank"
                  rel="noopener noreferrer"
                  className="btn btn-outline-success" >
